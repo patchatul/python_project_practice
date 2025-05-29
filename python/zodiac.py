@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 input = input("Input your birthday(mm/dd/yyyy): ")
 birthday = input.split("/")
 month = birthday[0]
@@ -30,3 +31,5 @@ elif (month == "11" and date >= "22") or (month == "12" and date <= "21"):
     print("♐︎︎ Sagittarius")
 else:
     print("Input again")
+=======
+>>>>>>> 2a9c895a910416b3a762e69fe9c19a72dc8c579f
